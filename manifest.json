@@ -1,0 +1,22 @@
+{
+  "name": "Study Plan 2025/2026",
+  "short_name": "StudyPlan",
+  "description": "CMP Exam Study Planner",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#0a0c10",
+  "theme_color": "#4fffb0",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
